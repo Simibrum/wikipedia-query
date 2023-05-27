@@ -1,0 +1,33 @@
+# Requirements
+
+# For AI / Text Embeddings
+openai
+tiktoken
+
+# For data processing
+pandas
+numpy
+scipy
+scikit-learn
+tables
+
+# For tests
+pytest
+pytest-mock
+coverage
+pytest-cov
+
+# For visualization
+matplotlib
+tqdm
+plotly
+
+# Fuzzy string matching
+fuzzywuzzy
+python-Levenshtein
+
+# For creating a Jupyter kernel
+ipykernel
+
+# For wikipedia access
+wikipedia
